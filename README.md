@@ -17,7 +17,6 @@
 
 <div align="center">
 
-  [![*'s github stats](https://github-readme-stats.vercel.app/api?username=nyamin9)](https://github.com/nyamin9) 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyamin9&layout=compact)](https://github.com/nyamin9/github-readme-stats)  
+  [![*'s github stats](https://github-readme-stats.vercel.app/api?username=nyamin9)](https://github.com/nyamin9) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyamin9&layout=compact)](https://github.com/nyamin9/github-readme-stats)  
   
 </div>
