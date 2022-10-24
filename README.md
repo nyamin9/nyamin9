@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=D0F0C0&height=260&section=header&text=MinguKang&fontSize=80&animation=fadeIn&fontAlignY=40&desc=%20&descAlignY=62&descAlign=62)  
 
-<p align="center">🇰🇷 🇦🇺 🇸🇬</p>
+<p align="center">Data Analyst / Business Analyst</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
