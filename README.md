@@ -8,8 +8,8 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a>&nbsp
+
+
+
+  [![*'s github stats](https://github-readme-stats.vercel.app/api?username=nyamin9)](https://github.com/nyamin9) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyamin9&layout=compact)](https://github.com/nyamin9/github-readme-stats)
 </p>
-
-
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=nyamin9)](https://github.com/nyamin9) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyamin9&layout=compact)](https://github.com/nyamin9/github-readme-stats)
-
