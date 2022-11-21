@@ -11,12 +11,12 @@
   <img src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp 
-  \\<!--<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp-->  
+  <!--<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp-->  
   <img src="https://img.shields.io/badge/-Linux-faed27?style=flat-square&logo=Linux&logoColor=black"/></a>&nbsp  
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp
   <br>  
   <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white"/></a>&nbsp
-  \\<!--<img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a>&nbsp-->
+  <!--<img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a>&nbsp-->
   <br>  
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/-Markdown-ffffff?style=flat-square&logo=Markdown&logoColor=black"/></a>&nbsp  
