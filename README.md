@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=0a0c10&height=260&section=header&text=MinguKang&&fontColor=9dc183&fontSize=80&&animation=fadeIn&fontAlignY=50&desc=%20&descAlignY=62&descAlign=62)  
+![header](https://capsule-render.vercel.app/api?type=transparent&height=260&section=header&text=MinguKang&&fontColor=9dc183&fontSize=80&&animation=fadeIn&fontAlignY=50&desc=%20&descAlignY=62&descAlign=62)  
 
 <p align="center"><b>📊Data Analyst / Business Analyst</b></p>  
 
