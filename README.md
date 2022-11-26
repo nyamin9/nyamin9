@@ -40,6 +40,10 @@
   <br>
   <a href="https://github.com/nyamin9/Project/tree/main/2022%20%EB%8D%B0%EC%9D%B4%EC%BD%98%20KOSPI%20%EB%B6%84%EC%84%9D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8">☑️ 📈 데이콘 KOSPI 분석 및 시각화 프로젝트 (2022.09.01~2022.09.17 / 1인)</a>&nbsp  
   <br>  
-  <a href="https://github.com/nyamin9/Data-Mining/tree/main/Project](https://github.com/nyamin9/Project/tree/main/2022-1%20BME%20AI)">☑️ 🧠 뇌파 데이터를 사용한 간질 예측 LSTM 프로젝트 (2022.05.15~2022.06.18 / 3인)</a>&nbsp
+  <a href="https://github.com/nyamin9/Project/tree/main/2022-1%20BME%20AI">☑️ 🧠 뇌파 데이터를 사용한 간질 예측 LSTM 프로젝트 (2022.05.15~2022.06.18 / 3인)</a>&nbsp  
+  <br>
+  <a href="https://github.com/nyamin9/Project/tree/main/2022-2%20Bioinfomatics">☑️ 🧬 리눅스 (plink) 및 R을 사용한 GWAS 프로젝트 (2022.11.03~ / 2인)</a>&nbsp  
+  <br>  
+  <a href="https://github.com/nyamin9/Project/tree/main/2022-2%20Finance%20Analytics">☑️ 💻 선형회귀를 통한 물가 영향 지표 분석 프로젝트 (2022.11.03~ / 2인)</a>&nbsp 
 </p>
 
