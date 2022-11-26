@@ -34,6 +34,6 @@
 
 <h3 align="center"> 🏆 Project 🏆 </h3>  
 <p align='left'>
-  <a href="https://github.com/nyamin9/Data-Mining/tree/main/Project">"심혈관질환 데이터 분석 프로젝트"</a>&nbsp  
+  <a href="https://github.com/nyamin9/Data-Mining/tree/main/Project">☑️ 심혈관질환 데이터 분석 프로젝트</a>&nbsp  
 </p>
 
