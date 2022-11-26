@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=260&section=header&text=MinguKang&&fontColor=7b68ee&fontSize=100&&animation=fadeIn&fontAlignY=50&desc=%20&descAlignY=50&descAlign=50)  
 
-<p align="center"><b>📊Data Analyst / Business Analyst</b></p>  
+<p align="center"><b>📊안녕하세요!! 데이터 분석가를 위해 열심히 공부중입니다.</b></p>  
 
 </br>    
 
