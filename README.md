@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=260&section=header&text=MinguKang&&fontColor=7b68ee&fontSize=100&&animation=fadeIn&fontAlignY=50&desc=%20&descAlignY=50&descAlign=50)  
 
-<p align="center"><b>📊안녕하세요!! 데이터 분석가를 위해 열심히 공부중입니다.</b></p>  
+<p align="center"><b>📊 안녕하세요!! 데이터 분석가가 되기 위해 열심히 공부중입니다.</b></p>  
 
 </br>    
 
@@ -32,10 +32,14 @@
 
 <br>  
 
+***
+
 <h3 align="left"> 🏆 Project 🏆 </h3>  
 <p align='left'>
   <a href="https://github.com/nyamin9/Data-Mining/tree/main/Project">☑️ 심혈관질환 데이터 분석 프로젝트</a>&nbsp  
   <br>
-  <a href="https://github.com/nyamin9/Project/tree/main/2022%20%EB%8D%B0%EC%9D%B4%EC%BD%98%20KOSPI%20%EB%B6%84%EC%84%9D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8">☑️ 데이콘 KOSPI 분석 및 시각화 프로젝트</a>&nbsp
+  <a href="https://github.com/nyamin9/Project/tree/main/2022%20%EB%8D%B0%EC%9D%B4%EC%BD%98%20KOSPI%20%EB%B6%84%EC%84%9D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8">☑️ 데이콘 KOSPI 분석 및 시각화 프로젝트</a>&nbsp  
+  <br>  
+  <a href="[https://github.com/nyamin9/Data-Mining/tree/main/Project](https://github.com/nyamin9/Project/tree/main/2022-1%20BME%20AI)">☑️ 뇌파 데이터를 사용한 간질 파악 LSTM </a>&nbsp
 </p>
 
