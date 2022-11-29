@@ -33,7 +33,6 @@
 <br>  
 
 ***  
-<br>  
 
 
 <h3 align="left"> 🏆 Project 🏆 </h3>  
@@ -48,15 +47,15 @@
   <br>  
   <a href="https://github.com/nyamin9/Project/tree/main/2022-2%20Finance%20Analytics">☑️ 💻 선형회귀를 통한 물가 영향 지표 분석 프로젝트 (2022.11.03~ / 2인)</a>&nbsp 
 </p>  
-
-<br>  
+  
 
 ***  
-<br>  
 
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyamin9&exclude_repo=nyamin9.github.io&layout=compact&theme=dark" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=nyamin9&theme=dark&show_icons=true" width="42%" />
+</a>  
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nyamin9&theme=moonlight)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nyamin9&theme=moonlight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nyamin9&theme=moonlight)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nyamin9&theme=moonlight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nyamin9&theme=moonlight&utcOffset=8)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=nyamin9&theme=react)](https://github.com/nyamin9/github-readme-activity-graph)
