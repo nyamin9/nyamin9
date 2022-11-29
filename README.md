@@ -52,10 +52,10 @@
 ***  
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyamin9&exclude_repo=nyamin9.github.io&layout=compact&theme=vue-dark" width="49.5%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyamin9&exclude_repo=nyamin9.github.io&layout=compact&theme=vue-dark" width="45.5%"/>
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=nyamin9&theme=vue-dark&show_icons=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nyamin9&theme=vue-dark&show_icons=true" width="54%" />
 </a>  
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=nyamin9&theme=vue)](https://github.com/nyamin9/github-readme-activity-graph)
