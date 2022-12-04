@@ -49,15 +49,26 @@
 </p>  
   
 
-***  
+***     
+ 
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyamin9&exclude_repo=nyamin9.github.io&layout=compact&theme=vue-dark" width="45.5%"/>
-</a>
+  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nyamin9&theme=nord_dark" / width="67%">  
+</a>  
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=nyamin9&theme=vue-dark&show_icons=true" width="54%" />
+  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nyamin9&theme=nord_dark&utcOffset=8" / width = "32.5%">  
 </a>  
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=nyamin9&theme=vue)](https://github.com/nyamin9/github-readme-activity-graph)  
+<a href="s">
+  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nyamin9&theme=nord_dark" / width = "33%">  
+</a>  
+<a href="s">
+  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nyamin9&theme=nord_dark" / width = "33%">  
+</a>  
+<a href="s">
+  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nyamin9&theme=nord_dark" / width = "33%">  
+</a>  
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=nyamin9&theme=vue)](https://github.com/nyamin9/github-readme-activity-graph)   
 
 *** 
