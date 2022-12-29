@@ -67,6 +67,4 @@
   <img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nyamin9&theme=nord_dark" / width = "33%">  
 </a>  
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=nyamin9&theme=vue)](https://github.com/nyamin9/github-readme-activity-graph)   
-
 *** 
