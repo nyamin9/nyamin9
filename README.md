@@ -43,7 +43,7 @@
   <br>  
   <a href="https://github.com/nyamin9/Project/tree/main/2022-1%20BME%20AI">☑️ 🧠 뇌파 데이터를 사용한 간질 예측 LSTM 프로젝트 (2022.05.15~2022.06.18 / 3인)</a>&nbsp  
   <br>
-  <a href="https://github.com/nyamin9/Project/tree/main/2022-2%20Finance%20Analytics">☑️ 💻 선형회귀를 통한 물가 영향 지표 분석 프로젝트 (2022.11.03~ / 2인)</a>&nbsp 
+  <a href="https://github.com/nyamin9/Project/tree/main/2022-2%20Finance%20Analytics">☑️ 💻 선형회귀를 통한 물가 영향 지표 분석 프로젝트 (2022.11.03~2022.12.09 / 2인)</a>&nbsp 
 </p>  
   
 
