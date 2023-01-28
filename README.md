@@ -27,7 +27,7 @@
 
 <h3 align="center"> 🚩 Blog 🚩 </h3>  
 <p align="center">  
-  <a href="https://nyamin9.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-ffffff?style=flat-square&logo=GitHub&logoColor=black&link=https://nyamin9.github.io/"/></a>&nbsp  
+  <a href="https://nyamin9.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-ffffff?style=flat-square&logo=GitHub&logoColor=black&link=https://nyamin9-data.tistory.com/"/></a>&nbsp  
 </p>  
 
 <br>  
