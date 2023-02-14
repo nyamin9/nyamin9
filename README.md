@@ -45,7 +45,7 @@
   <br>
   <a href="https://github.com/nyamin9/Project/tree/main/2022-2%20Finance%20Analytics">☑️ 💻 선형회귀를 통한 물가 영향 지표 분석 프로젝트 (2022.11.03~2022.12.09 / 2인)</a>&nbsp  
   <br>  
-  <a href="https://github.com/nyamin9/Project/tree/main/2023%20%EC%8A%88%ED%8D%BC%EC%8A%A4%ED%86%A0%EC%96%B4%20%EA%B1%B0%EB%9E%98%EB%9F%89%20%EB%B0%8F%20%EC%88%98%EC%9D%B5%EB%A5%A0%20%EC%83%81%EC%8A%B9%20%EA%B8%B0%ED%9A%8D%EC%95%88">☑️ 📶 슈퍼스토어 거래량 및 수익률 상승 기획안 (2023.02.10 ~ 2023.02.14 / 개인 프로젝트)</a>&nbsp
+  <a href="https://github.com/nyamin9/Project/tree/main/2023%20%EC%8A%88%ED%8D%BC%EC%8A%A4%ED%86%A0%EC%96%B4%20%EA%B1%B0%EB%9E%98%EB%9F%89%20%EB%B0%8F%20%EC%88%98%EC%9D%B5%EB%A5%A0%20%EC%83%81%EC%8A%B9%20%EA%B8%B0%ED%9A%8D%EC%95%88">☑️ 📶 슈퍼스토어 거래량 및 수익률 상승 기획안 (2023.02.10 ~ 2023.02.14 / 개인 프로젝트)</a>&nbsp 
 </p>  
   
 
