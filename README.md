@@ -55,13 +55,6 @@
 
 
 <a href="s">
-  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nyamin9&theme=nord_dark" / width="67%">  
-</a>  
-<a href="s">
-  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nyamin9&theme=nord_dark&utcOffset=8" / width = "32.5%">  
-</a>  
-
-<a href="s">
   <img src = "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nyamin9&theme=nord_dark" / width = "33%">  
 </a>  
 <a href="s">
