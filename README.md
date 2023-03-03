@@ -51,7 +51,7 @@
 
 ***  
 
-[![MINGU's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JONGSKY&theme=react-dark)](https://github.com/nyamin9)  
+[![MINGU's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nyamin9&theme=react-dark)](https://github.com/nyamin9)  
 
 
 <a href="s">
