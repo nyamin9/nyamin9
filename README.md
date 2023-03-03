@@ -49,8 +49,10 @@
 </p>  
   
 
-***     
- 
+***  
+
+[![MINGU's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JONGSKY&theme=react-dark)](https://github.com/nyamin9)  
+
 
 <a href="s">
   <img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nyamin9&theme=nord_dark" / width="67%">  
