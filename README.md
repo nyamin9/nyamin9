@@ -55,13 +55,13 @@
 
 
 <a href="s">
-  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nyamin9&theme=nord_dark" / width = "33%">  
+  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nyamin9&theme=nord_dark" / width = "32%">  
 </a>  
 <a href="s">
-  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nyamin9&theme=nord_dark" / width = "33%">  
+  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nyamin9&theme=nord_dark" / width = "32%">  
 </a>  
 <a href="s">
-  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nyamin9&theme=nord_dark" / width = "33%">  
+  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nyamin9&theme=nord_dark" / width = "32%">  
 </a>  
 
 *** 
