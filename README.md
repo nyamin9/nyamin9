@@ -35,7 +35,7 @@
 ***  
 
 
-<h3 align="left"> 🏆 Project 🏆 </h3>  
+<h3 align="left"> 🏆 Python & R Project 🏆 </h3>  
 <p align='left'>
   <a href="https://github.com/nyamin9/Data-Mining/tree/main/Project">☑️ 🫀 심혈관질환 데이터 분석 프로젝트 (2022.05.02~2022.06.22 / 2인)</a>&nbsp  
   <br>
@@ -50,6 +50,24 @@
   
 
 ***  
+
+<h3 align="left"> 📊 Tableau BI Project 📊 </h3>  
+<p align='left'>
+  <a href="https://public.tableau.com/app/profile/kang.mingu/viz/_16805200581120/sheet5">☑️ 🍕 행정구역에 따른 소비 비용 분석</a>&nbsp  
+  <br>
+  <a href="https://public.tableau.com/app/profile/kang.mingu/viz/_16805200924140/sheet5">☑️ 😎 인플루언서 SNS 홍보 결과 및 현황 분석</a>&nbsp  
+  <br>  
+  <a href="https://public.tableau.com/app/profile/kang.mingu/viz/HR_16805201505300/HR">☑️ 👥 HR 데이터를 통한 부서별 채용 인원 현황 분석</a>&nbsp  
+  <br>
+  <a href="https://public.tableau.com/app/profile/kang.mingu/viz/_16805201975890/sheet2">☑️ 🎁 Super store 코호트 차트 분석</a>&nbsp  
+  <br>  
+  <a href="https://public.tableau.com/app/profile/kang.mingu/viz/ConsumerComplaintAnalysis_16805202287360/VIZABLEUSAFINANCIALconsumercomplainanalysis">☑️ 😡 Finance Company 소비자 컴플레인 분석</a>&nbsp 
+</p>  
+
+<br>  
+
+***  
+
 
 [![MINGU's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nyamin9&theme=react-dark)](https://github.com/nyamin9)  
 
